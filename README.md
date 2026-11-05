@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi, I'm Vishnu R 👋
 
-<!--
-**Vishnu-QA17/Vishnu-QA17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer | Manual Testing | Automation Testing | AI Testing
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software quality engineering, test automation, and AI-driven testing. My focus is on improving software reliability through effective testing strategies, scalable automation frameworks, and intelligent testing solutions.
+
+👨‍💻 What I Do
+
+Manual Testing and Quality Assurance
+
+Functional, Regression, Sanity & Integration Testing
+
+Test Case Design and Test Planning
+
+Web and Mobile Application Testing
+
+Automation Framework Development
+
+API Testing and Validation
+
+AI and LLM Testing
+
+🛠️ Technical Skills
+
+Automation & Programming
+
+Playwright
+
+JavaScript
+
+TypeScript
+
+Testing
+
+Manual Testing
+
+Functional Testing
+
+Regression Testing
+
+Exploratory Testing
+
+API Testing
+
+Mobile Application Testing
