@@ -4,7 +4,7 @@ QA Engineer | Manual Testing | Automation Testing | AI Testing
 
 Welcome to my GitHub profile!
 
-I am passionate about software quality engineering, test automation, and AI-driven testing. My focus is on improving software reliability through effective testing strategies, scalable automation frameworks, and intelligent testing solutions.
+Passionate about software quality engineering, test automation, API validation and AI-driven testing solutions.
 
 👨‍💻 What I Do
 
